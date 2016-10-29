@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git config user.name 'magenta'
+git config user.email 'magenta.margin@gmail.com'
+git config core.editor 'vim'
